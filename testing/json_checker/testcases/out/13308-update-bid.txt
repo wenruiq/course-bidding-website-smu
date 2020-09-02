@@ -1,0 +1,7 @@
+{
+    "status": "error",
+    "message": [
+        "not own school course",
+        "section limit reached"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "status": "error",
+    "num-record-loaded": [
+        {
+            "bid.csv": 16
+        },
+        {
+            "course.csv": 31
+        },
+        {
+            "course_completed.csv": 4
+        },
+        {
+            "prerequisite.csv": 8
+        },
+        {
+            "section.csv": 42
+        },
+        {
+            "student.csv": 26
+        }
+    ],
+    "error": [
+        {
+            "file": "bid.csv",
+            "line": 18,
+            "message": [
+                "section limit reached"
+            ]
+        }
+    ]
+}

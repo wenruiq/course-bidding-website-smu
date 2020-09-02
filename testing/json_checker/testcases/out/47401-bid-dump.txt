@@ -1,0 +1,41 @@
+{
+    "status": "success",
+    "bids": [
+        {
+            "row": 1,
+            "userid": "person1.ng.2009",
+            "amount": 27.0,
+            "result": "in"
+        },
+        {
+            "row": 2,
+            "userid": "person7.ng.2009",
+            "amount": 24.0,
+            "result": "in"
+        },
+        {
+            "row": 3,
+            "userid": "person6.ng.2009",
+            "amount": 23.0,
+            "result": "in"
+        },
+        {
+            "row": 4,
+            "userid": "person5.ng.2009",
+            "amount": 22.0,
+            "result": "out"
+        },
+        {
+            "row": 5,
+            "userid": "person4.ng.2009",
+            "amount": 21.0,
+            "result": "out"
+        },
+        {
+            "row": 6,
+            "userid": "person2.ng.2009",
+            "amount": 20.0,
+            "result": "out"
+        }
+    ]
+}

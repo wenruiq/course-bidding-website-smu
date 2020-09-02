@@ -1,0 +1,32 @@
+{
+    "status": "error",
+    "num-record-loaded": [
+        {
+            "bid.csv": 12
+        },
+        {
+            "course.csv": 25
+        },
+        {
+            "course_completed.csv": 4
+        },
+        {
+            "prerequisite.csv": 8
+        },
+        {
+            "section.csv": 36
+        },
+        {
+            "student.csv": 26
+        }
+    ],
+    "error": [
+        {
+            "file": "bid.csv",
+            "line": 14,
+            "message": [
+                "class timetable clash"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "status": "error",
+    "num-record-loaded": [
+        {
+            "bid.csv": 0
+        },
+        {
+            "course.csv": 24
+        },
+        {
+            "course_completed.csv": 4
+        },
+        {
+            "prerequisite.csv": 8
+        },
+        {
+            "section.csv": 35
+        },
+        {
+            "student.csv": 27
+        }
+    ],
+    "error": [
+        {
+            "file": "student.csv",
+            "line": 28,
+            "message": [
+                "invalid userid",
+                "invalid e-dollar"
+            ]
+        },
+        {
+            "file": "student.csv",
+            "line": 30,
+            "message": [
+                "blank password",
+                "blank name",
+                "blank edollar"
+            ]
+        }
+    ]
+}
