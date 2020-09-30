@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/58852708/94668273-6c062900-0342-11eb-9eea-8f2304086405.png" width="800px"/>
 <h3 align="center">Course Bidding Website Clone</h3>
 <p align="center">
-  This app clones the functions of a course bidding system in the university
+  A PHP app that clones the function of a University course bidding system
   </br>
   <a href="https://github.com/wenruiq/course-bidding-website-smu"><strong>Explore the docs »</strong></a>
   </br>
